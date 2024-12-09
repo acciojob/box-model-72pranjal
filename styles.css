@@ -14,13 +14,13 @@
 	height: 150px;
 	border-radius: 50%;	
 }
-.item1 {
+.green {
 	background-color: green;
 }
-.item2 {
+.yellow {
 	background-color: yellow;
 }
-.item3 {
+.red {
 	background-color: red;
 }
 
